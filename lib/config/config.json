@@ -1,0 +1,4 @@
+{
+    "seqAsignacionCaja": "administracion.\"asignacioncaja_Id_seq\"",
+    "seqAsignacionCajaEstado": "administracion.\"asignacioncaja_estado_Id_seq\""  
+}
