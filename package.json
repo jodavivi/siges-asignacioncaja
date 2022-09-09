@@ -11,17 +11,18 @@
     "express-validator": "^6.6.0",
     "html-to-text": "^5.1.1",
     "juice": "^7.0.0",
+    "log4js": "^6.5.2",
+    "node-cache": "^5.1.2",
     "nodemailer": "^6.4.10",
     "pg": "^8.2.1",
     "pg-hstore": "^2.3.3",
     "pug": "^3.0.0",
     "querystring": "^0.2.0",
     "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
     "sequelize": "^6.3.0",
     "shortid": "^2.2.15",
-    "slug": "^3.3.0",
-    "request-promise-native": "^1.0.9", 
-    "log4js": "^6.5.2"
+    "slug": "^3.3.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
