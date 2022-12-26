@@ -1,3 +1,5 @@
 {
-    "seqAsignacionCaja": "administracion.\"asignacioncaja_Id_seq\"" 
+    "seqAsignacionCaja": "administracion.\"caja_asignacion_Id_seq\"" ,
+    "estadoActivo": "Activo",
+    "estadoDesactivo": "Desactivo"
 }
